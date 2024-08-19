@@ -155,10 +155,10 @@
  </p>
 <h2 align="center">Contact Information</h2>
 <ul>
-        <p align="left">
+        <p align="center">
 <a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a> <a href="https://www.linkedin.com/in/federicoromeromiteff/">Linkedln</a>
 </p>
-<p align="left">
+<p align="center">
  <a href="https://www.outlook.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="email" height="40" width="40" /> <a href="https://outlook.com/">Federomeromiteff@hotmail.com</a>
                 </p>
 
