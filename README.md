@@ -5,10 +5,10 @@
 <p align="center">Experienced in development of database, websites, e-commerce, applications in Python.</p>
 <p align="center">Skilled at consolidating and researching principles, carrying out good practices and software development methodologies.</p>
 
-<h2 align="left">Programming Languages and Frameworks</h2>
+<h2 align="center">Programming Languages and Frameworks</h2>
 
-<h3 align="left">Frontend</h3>
-        <p align="left">
+<h3 align="center">Frontend</h3>
+        <p align="center">
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -58,8 +58,8 @@
             </a>
         </p>
 
-<h3 align="left">Backend</h3>
-        <p align="left">
+<h3 align="center">Backend</h3>
+        <p align="center">
             <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -76,8 +76,8 @@
                     height="60"
                 />
             </a>
-<h3 align="left">Database</h3>
-        <p align="left">
+<h3 align="center">Database</h3>
+        <p align="center">
                 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
                 <img
                     src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"
@@ -114,15 +114,15 @@
                 />
             </a>
         </p>
-<h3 align="left">Database as a Service</h3>
-        <p align="left">
+<h3 align="center">Database as a Service</h3>
+        <p align="center">
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="60" />
             </a>
         </p>
 
-<h3 align="left">Others</h3>
-        <p align="left">
+<h3 align="center">Others</h3>
+        <p align="center">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="60" />
             </a>
@@ -137,23 +137,23 @@
             </a>
         </p>
         
-<h2 align="left">Projects</h2>
- <p align="left">
+<h2 align="center">Projects</h2>
+ <p align="center">
         <a href="https://cotizaciondedivisasfrm.netlify.app/" target="_blank" rel="noreferrer"> 
                 <img src='https://github.com/user-attachments/assets/5ae4a83b-cb58-475a-8c62-0efe6d83cde3' alt="JS" height="200" />
         </a>
  </p>
- <p align="left">
+ <p align="center">
         <a href="https://maquinasvialesdanielromero.netlify.app/" target="_blank" rel="noreferrer"> 
                 <img src='https://github.com/user-attachments/assets/42b60838-5a1d-47dc-aad0-ad66dd3236ab' alt="reactjs" height="200" />
         </a>
  </p>
-  <p align="left">
+  <p align="center">
         <a href="https://maquinasvialesdr.netlify.app/" target="_blank" rel="noreferrer"> 
                 <img src='https://github.com/user-attachments/assets/70e5167f-37ea-4696-8590-39fec4a43fc0' alt="HTML-CSS3-SASS-JS" height="200" />
         </a>
  </p>
-<h2 align="left">Contact Information</h2>
+<h2 align="center">Contact Information</h2>
 <ul>
         <p align="left">
 <a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a> <a href="https://www.linkedin.com/in/federicoromeromiteff/">Linkedln</a>
