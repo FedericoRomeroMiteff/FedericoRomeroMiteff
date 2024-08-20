@@ -140,17 +140,17 @@
 <h2 align="center">Projects</h2>
  <p align="center">
         <a href="https://cotizaciondedivisasfrm.netlify.app/" target="_blank" rel="noreferrer"> 
-                <img src='https://github.com/user-attachments/assets/5ae4a83b-cb58-475a-8c62-0efe6d83cde3' alt="JS" height="200" />
+                <img src='https://github.com/user-attachments/assets/cba659e3-3a09-489f-9839-a0b4526ecb73'alt="JS" height="200" />
         </a>
  </p>
  <p align="center">
         <a href="https://maquinasvialesdanielromero.netlify.app/" target="_blank" rel="noreferrer"> 
-                <img src='https://github.com/user-attachments/assets/42b60838-5a1d-47dc-aad0-ad66dd3236ab' alt="reactjs" height="200" />
+                <img src= 'https://github.com/user-attachments/assets/47875ad8-40c0-4ab8-853b-9c4cfdf617e1' alt="reactjs" height="200" />
         </a>
  </p>
   <p align="center">
         <a href="https://maquinasvialesdr.netlify.app/" target="_blank" rel="noreferrer"> 
-                <img src='https://github.com/user-attachments/assets/70e5167f-37ea-4696-8590-39fec4a43fc0' alt="HTML-CSS3-SASS-JS" height="200" />
+                <img src='https://github.com/user-attachments/assets/e3aa634c-21f6-4a19-8ddb-50a515979e4f' alt="HTML-CSS3-SASS-JS" height="200" />
         </a>
  </p>
 <h2 align="center">Contact Information</h2>
